@@ -1,9 +1,13 @@
 <div align="center">
-  <img src="json.svg" alt="JSON Downloader Logo" width="180"/>
+  <img src="assets/json.svg" alt="JSON Downloader Logo" width="180"/>
 
   # JSON Downloader Chrome Extension
   
   A minimal, developer-first Chrome extension that allows you to download JSON data from web pages or URLs with a single click. Features a modern UI with automatic JSON detection and a floating download button.
+  
+  <br/>
+  
+  <img src="assets/2.png" alt="Extension Preview" width="600"/>
 </div>
 
 ## ✨ Features
