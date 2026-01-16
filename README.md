@@ -18,12 +18,13 @@
 - **JSON Validation**: Automatically validates JSON before downloading
 - **Smart Filenames**: Files saved as `json-download_<hostname>_<timestamp>.json`
 - **Modern UI**: Clean, intuitive popup design
-- **Privacy-First**: No tracking, no analytics, no data collection
+- **Privacy-First**: No tracking, no anaľ̌̌̌̌̌̌̌̌̌̌ytics, no data collection
 
 ## Installation
 
-### From Chrome Web Store (Coming Soon)
-*Extension is being prepared for publication*
+### From Chrome Web Store
+
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/iaogemjgmphchhcngfjohooajjlfmomp?style=for-the-badge&logo=googlechrome&logoColor=white&label=Chrome%20Web%20Store)](https://chromewebstore.google.com/detail/iaogemjgmphchhcngfjohooajjlfmomp?utm_source=item-share-cb)
 
 ### Manual Installation (Developer Mode)
 1. Download or clone this repository
